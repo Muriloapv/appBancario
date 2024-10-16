@@ -1,0 +1,24 @@
+{
+  "transacoes": [
+    {
+      "id": "2",
+      "descricao": "Pagamento de aluguel",
+      "valor": 1200
+    },
+    {
+      "id": "3",
+      "descricao": "Venda de produto",
+      "valor": 300.5
+    },
+    {
+      "descricao": "Conta de energia",
+      "valor": 80,
+      "id": "4"
+    },
+    {
+      "id": "2fdb",
+      "descricao": "sss",
+      "valor": 100
+    }
+  ]
+}
